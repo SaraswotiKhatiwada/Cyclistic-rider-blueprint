@@ -81,8 +81,36 @@ As an aspiring **Data Analyst**, I treated this project like a **consulting enga
 
 - `Cyclistic_Rider_Blueprint.ipynb` → Kaggle notebook (code + narrative)  
 - `cleaned_data/` → Processed dataset (fst format)  
-- `figures/` → Key charts (`.png`) for portfolio & reports  
-- `README.md` → Executive project summary  
+- `README.md` → Executive project summary
+-  Key charts (`.png`) for portfolio & reports
+
+-  ## 📈 Key Figures
+
+- [Top stations: counts vs share](./top_start_stations_combined.png)
+- [Weekday vs weekend usage](./weekpart_ride_counts_refined.png)
+- [Hourly patterns](./hourly_patterns.png)
+- [Hourly share (who owns each hour?)](./hourly_share.png)
+- [Monthly trends (absolute)](./monthly_trends_proportion.png)
+- [Monthly share (seasonality)](./monthly_share.png)
+- [Bike type preferences](./bike_type_usage_proportion.png)
+
+<!-- Image gallery (renders nicely on GitHub) -->
+<p align="center">
+  <img src="./weekpart_ride_counts_refined.png" alt="Weekday vs weekend usage" width="48%">
+  <img src="./top_start_stations_combined.png" alt="Top start stations — counts vs composition" width="48%">
+</p>
+<p align="center">
+  <img src="./hourly_patterns.png" alt="Hourly ride patterns" width="48%">
+  <img src="./hourly_share.png" alt="Hourly ride share by user type" width="48%">
+</p>
+<p align="center">
+  <img src="./monthly_trends_proportion.png" alt="Monthly trends by user type (absolute)" width="48%">
+  <img src="./monthly_share.png" alt="Monthly share of total rides (seasonality)" width="48%">
+</p>
+<p align="center">
+  <img src="./bike_type_usage_proportion.png" alt="Bike type preferences by user type" width="48%">
+</p>
+
 
 ---
 
@@ -113,4 +141,5 @@ This wasn’t just a technical exercise — it was about showing I can:
 ---
 
 > 🚲 This project proves that data analytics is not just about charts — it’s about building a **strategy** that drives growth, reduces inefficiencies, and creates long-term value.  
+
 
